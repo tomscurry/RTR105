@@ -1,6 +1,6 @@
 # RTR105
 # Datormācibas kursa elektroniskā klade
-firefox & = atver pārlūkprogrammu
+<hr /> firefox & = atver pārlūkprogrammu
 man = liek priekša komandai,lai iegūtu info
 uname = parāda info par oper. sistēmu/sistēmu (-r, -a...) papildus komandas/sīkāk
 history = parāda komandu vēsturi
