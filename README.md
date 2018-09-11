@@ -13,7 +13,7 @@
 **echo** = display text  
 **mkdir** = izveido jaunu mapi  
 **rmdir** = izdzēš noteiktu mapi  
-***** = atlasa visus failus ar noteiktu nosaukumu (PIEM. - rmdir *.txt)  
+* = atlasa visus failus ar noteiktu nosaukumu (PIEM. - rmdir *.txt)  
 **mv** = pārvieto failus  
 **chmod** = maina bitu skaitu failā  
 **cat** = tikai tekstu rāda  
