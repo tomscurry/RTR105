@@ -11,15 +11,15 @@
 **ls** = parāda eksistējošās mapes (-a = parāda visas mapes, arī slēptās)  
 **cd** = mainīt directory  
 **echo** = display text  
-**mkdir** = izveido jaunu mapi
-**rmdir** = izdzēš noteiktu mapi
-** * ** = atlasa visus failus ar noteiktu nosaukumu (PIEM. - rmdir *.txt)
-**mv** = pārvieto failus
-**chmod** = maina bitu skaitu failā
-**cat** = tikai tekstu rāda
-**ctrl + c** = iziet no cat
-**nano** = editošanas režīms
-**ctrl + x** = iziet no nano
+**mkdir** = izveido jaunu mapi  
+**rmdir** = izdzēš noteiktu mapi  
+** * ** = atlasa visus failus ar noteiktu nosaukumu (PIEM. - rmdir *.txt)  
+**mv** = pārvieto failus  
+**chmod** = maina bitu skaitu failā  
+**cat** = tikai tekstu rāda  
+**ctrl + c** = iziet no cat  
+**nano** = editošanas režīms  
+**ctrl + x** = iziet no nano  
 
 
 
