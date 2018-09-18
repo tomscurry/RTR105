@@ -20,6 +20,7 @@
 **ctrl + c** = iziet no cat  
 **nano** = editošanas režīms  
 **ctrl + x** = iziet no nano  
+http://ecowin.org/ascii.htm ascii tabula
 
 
 
