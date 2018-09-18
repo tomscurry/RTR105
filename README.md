@@ -19,9 +19,13 @@
 **cat** = tikai tekstu rāda  
 **ctrl + c** = iziet no cat  
 **nano** = editošanas režīms  
-**ctrl + x** = iziet no nano  
-http://ecowin.org/ascii.htm ascii tabula
-
+**ctrl + x** = iziet no nano    
+http://ecowin.org/ascii.htm ascii tabula  
+**vars()** = variables   
+**abs** = full value  
+**type** = parāda komandas tipu  
+**python** = atver python   
+sudo apt-get install ipython/idle  
 
 
 
