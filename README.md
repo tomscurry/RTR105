@@ -9,7 +9,7 @@
 **who** = parāda visus lietotājus  
 **pwd** = parāda esošo directory  
 **ls** = parāda eksistējošās mapes (-a = parāda visas mapes, arī slēptās)  
-**cd** = mainīt directory  
+**cd** = mainīt directory, doties uz mājām 
 **echo** = display text  
 **mkdir** = izveido jaunu mapi  
 **rmdir** = izdzēš noteiktu mapi  
