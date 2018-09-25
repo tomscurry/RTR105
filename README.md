@@ -26,6 +26,7 @@ http://ecowin.org/ascii.htm ascii tabula
 **type** = parāda komandas tipu  
 **python** = atver python   
 sudo apt-get install ipython/idle  
+done
 
 
 
